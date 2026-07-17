@@ -50,4 +50,3 @@ Similiar to the above gans, the cifar100 gan here generates 32x32x1 images for g
 - feel free to use/share this code openly
 - for similar projects, see related repos: (e.g. [imodels](https://github.com/csinva/imodels), [neural-network-interpretations](https://github.com/csinva/acd)) or my website ([csinva.io](https://csinva.github.io/))
 - tweets [@csinva_](https://twitter.com/csinva_)
-
