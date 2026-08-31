@@ -129,4 +129,3 @@ except Exception as e:
     traceback.print_exc()
 finally:
     print("Total Elapse: {:.2f}, Best Result: {:.3f}%".format(time.time()-t_begin, best_acc))
-
